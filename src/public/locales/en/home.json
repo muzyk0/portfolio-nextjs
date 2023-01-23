@@ -1,0 +1,22 @@
+{
+  "title": "Portfolio",
+  "author": "By Muzyka Vladislav",
+  "cards": {
+    "blog-platform": {
+      "title": "Blog platform",
+      "description": "API service for website blog platform."
+    },
+    "graphql-course": {
+      "title": "GraphQL Course",
+      "description": "Learn about GraphQL in an interactive course with React."
+    },
+    "todolist-api": {
+      "title": "Todolist API",
+      "description": "Backend service for GraphQL Course."
+    },
+    "github-author": {
+      "title": "View GitHub",
+      "description": "Make me an offer right now, without registration and sms."
+    }
+  }
+}
