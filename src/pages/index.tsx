@@ -57,58 +57,58 @@ export default function Home() {
 
                 <div className={styles.grid}>
                     <a
-                        href="https://github.com/muzyk0/NestJS-Blogs-API"
+                        href={t('cards.first.link') ?? '#'}
                         className={styles.card}
                         target="_blank"
                         rel="noopener noreferrer"
                     >
                         <h2 className={inter.className}>
-                            {t('cards.blog-platform.title')} <span>-&gt;</span>
+                            {t('cards.first.title')} <span>-&gt;</span>
                         </h2>
                         <p className={inter.className}>
-                            {t('cards.blog-platform.description')}
+                            {t('cards.first.description')}
                         </p>
                     </a>
 
                     <a
-                        href="https://github.com/muzyk0/Todolist-GraphQL-Course"
+                        href={t('cards.second.link') ?? '#'}
                         className={styles.card}
                         target="_blank"
                         rel="noopener noreferrer"
                     >
                         <h2 className={inter.className}>
-                            {t('cards.graphql-course.title')} <span>-&gt;</span>
+                            {t('cards.second.title')} <span>-&gt;</span>
                         </h2>
                         <p className={inter.className}>
-                            {t('cards.graphql-course.description')}
+                            {t('cards.second.description')}
                         </p>
                     </a>
 
                     <a
-                        href="https://github.com/muzyk0/Todolist-GraphQL-server"
+                        href={t('cards.third.link') ?? '#'}
                         className={styles.card}
                         target="_blank"
                         rel="noopener noreferrer"
                     >
                         <h2 className={inter.className}>
-                            {t('cards.todolist-api.title')} <span>-&gt;</span>
+                            {t('cards.third.title')} <span>-&gt;</span>
                         </h2>
                         <p className={inter.className}>
-                            {t('cards.todolist-api.description')}
+                            {t('cards.third.description')}
                         </p>
                     </a>
 
                     <a
-                        href="https://github.com/muzyk0"
+                        href={t('cards.fourth.link') ?? '#'}
                         className={styles.card}
                         target="_blank"
                         rel="noopener noreferrer"
                     >
                         <h2 className={inter.className}>
-                            {t('cards.github-author.title')} <span>-&gt;</span>
+                            {t('cards.fourth.title')} <span>-&gt;</span>
                         </h2>
                         <p className={inter.className}>
-                            {t('cards.github-author.description')}
+                            {t('cards.fourth.description')}
                         </p>
                     </a>
                 </div>
