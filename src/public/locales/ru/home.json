@@ -1,0 +1,26 @@
+{
+  "title": "Портфолио",
+  "author": "Музыка Владислав",
+  "cards": {
+    "first": {
+      "title": "Блог API",
+      "description": "API-сервис для платформы блогов с блэкджеком и печеньками.",
+      "link": "https://github.com/muzyk0/NestJS-Blogs-API"
+    },
+    "second": {
+      "title": "GraphQL Курс",
+      "description": "Изучи GraphQL в интерактивном курсе с использованием React.",
+      "link": "https://github.com/muzyk0/Todolist-GraphQL-Course"
+    },
+    "third": {
+      "title": "Todolist API",
+      "description": "API-сервис для курса по GraphQL. Создай список и задачи к ним.",
+      "link": "https://github.com/muzyk0/Todolist-GraphQL-server"
+    },
+    "fourth": {
+      "title": "GitHub",
+      "description": "Сделайте предложение прямо сейчас, без регистрации и смс.",
+      "link": "https://github.com/muzyk0"
+    }
+  }
+}

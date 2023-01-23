@@ -1,0 +1,26 @@
+{
+  "title": "Portfolio",
+  "author": "By Muzyka Vladislav",
+  "cards": {
+    "first": {
+      "title": "Blog platform",
+      "description": "API service for website blog platform.",
+      "link": "https://github.com/muzyk0/NestJS-Blogs-API"
+    },
+    "second": {
+      "title": "GraphQL Course",
+      "description": "Learn about GraphQL in an interactive course with React.",
+      "link": "https://github.com/muzyk0/Todolist-GraphQL-Course"
+    },
+    "third": {
+      "title": "Todolist API",
+      "description": "Backend service for GraphQL Course.",
+      "link": "https://github.com/muzyk0/Todolist-GraphQL-server"
+    },
+    "fourth": {
+      "title": "View GitHub",
+      "description": "Make me an offer right now, without registration and sms.",
+      "link": "https://github.com/muzyk0"
+    }
+  }
+}
